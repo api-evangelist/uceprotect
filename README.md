@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-UCEPROTECT is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://uceprotect.net/
+UCEPROTECT®-Network is a Swiss‑based anti‑spam service that maintains real‑time blacklists of IP addresses and ASNs used for sending spam. The project offers multiple listing levels, a query database, outbreak monitoring, and detailed statistics. It aims to stop mail abuse globally by providing free blacklist downloads and paid monitoring services for ISPs and email administrators.
+
+**Areas:** Company · SpamProtection · EmailSecurity · Blacklist · NetworkSecurity · Switzerland
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.uceprotect.net/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/uceprotect/](https://apis.io/providers/uceprotect/).
